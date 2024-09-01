@@ -1,26 +1,42 @@
-[
+  [
     {
-      "title": "WeatherCast",
-      "imageSrc": "projects/weatherapp.png",
-      "description": "A weather application utilizing a weather-based API to deliver real-time weather updates.",
-      "skills": ["React", "JavaScript"],
-      "demo": "https://weather-applicationreact.netlify.app/",
-      "source": "https://github.com/Abhisek246/Weather-App-React-project-"
+      "title": "Food Listing Application",
+      "imageSrc": "projects/food-app.png",
+      "description": "A responsive food listing platform featuring category-based filtering for diverse food dishes.",
+      "skills": ["React"],
+      "demo": "https://tomato-application.netlify.app/",
+      "source": "https://github.com/Abhisek246/Food-application"
     },
     {
-      "title": "TaskTracker",
-      "imageSrc": "projects/todolist.png",
-      "description": "A task management application designed to improve productivity by creating to-do list.",
-      "skills": ["React", "JavaScript"],
-      "demo": "https://todo-listappreact.netlify.app/",
-      "source": "https://github.com/Abhisek246/Todo-List-React"
+      "title": "Wanderlust: Ultimate Travel Destination Finder",
+      "imageSrc": "projects/wonderlust.png",
+      "description": "A MERN stack travel listing platform",
+      "skills": ["MongoDB", "Express.js", "React", "Node.js"],
+      "demo": "https://wonderlust-cxsn.onrender.com/listings",
+      "source": "https://github.com/Abhisek246/Wonderlust"
+    },
+    {
+      "title": "Real-time Chat Application with React & Firebase",
+      "imageSrc": "projects/chat-app.png",
+      "description": "A responsive chat application using React and Firebase, incorporating real-time messaging",
+      "skills": ["React", "Firebase"],
+      "demo": "https://messenger-application.netlify.app/",
+      "source": "https://github.com/Abhisek246/Chat-application"
     },
     {
       "title": "RhythmiX- Web Player",
       "imageSrc": "projects/Rhythmix.png",
-      "description": "Developed a Spotify-inspired music streaming platform clone.",
+      "description": "Developed a Spotify-inspired music streaming platform clone",
       "skills": ["HTML", "CSS"],
       "demo": "https://rhythmix123.netlify.app/",
       "source": "https://github.com/Abhisek246/RhythmiX"
+    },
+    {
+      "title": "WeatherCast",
+      "imageSrc": "projects/weatherapp.png",
+      "description": "A weather application utilizing a weather-based API to deliver real-time weather updates",
+      "skills": ["React", "Material UI"],
+      "demo": "https://weather-applicationreact.netlify.app/",
+      "source": "https://github.com/Abhisek246/Weather-App-React-project-"
     }
   ]
